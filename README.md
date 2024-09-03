@@ -1,6 +1,6 @@
 # Computing With Signals 
 # CNN for 1 Dimension for Human Activity Detection 
-# Nabeel Khan 200121032
+# sahithi 210102086
 
 We have our inputs for training and testing in the train and test folders respectively
 
